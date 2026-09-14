@@ -1,6 +1,6 @@
 # ChatGPT IPs
 
-![Addresses: 72 ](https://img.shields.io/badge/Addresses-72-green)
+![Addresses: 71 ](https://img.shields.io/badge/Addresses-71-green)
 
 This is a list of IP addresses from which the ChatGPT bot tried to harvest data from any of my websites. In addition to delivering the standard X-Robots-tag "noai, noimageai, noimageindex" headers, I also
 block ChatGPT based on user agent because apparently their bot does not respect the headers and still tries to harvest data from my websites.
